@@ -31,16 +31,16 @@ from __future__ import annotations
 import argparse
 import json
 import time
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import quote
 
 import pandas as pd
 import requests
-
-from rdkit import Chem, DataStructs
+from rdkit import Chem
 from rdkit.Chem import AllChem, Crippen, Descriptors, GraphDescriptors, Lipinski, MACCSkeys, rdMolDescriptors
+
 try:
     from rdkit.Chem import rdFingerprintGenerator
 except Exception:  # older RDKit fallback
@@ -456,11 +456,12 @@ def save_cache(path: Path, cache: Dict[str, dict]) -> None:
     path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def main() -> None:
+def main(argv=None) -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--outdir", default="data_home_pharmacy", help="Output directory")
+    parser.add_argument("--outdir", default=str(Path(__file__).resolve().parent / "data_home_pharmacy_v5"),
+                        help="Output directory (also holds pubchem_cache.json)")
     parser.add_argument("--sleep", type=float, default=0.20, help="Delay between PubChem requests")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
 
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)

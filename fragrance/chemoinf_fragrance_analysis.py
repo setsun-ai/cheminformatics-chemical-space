@@ -28,28 +28,23 @@ Written with ChatGPT assistance.
 from __future__ import annotations
 
 import argparse
-import os
 import sys
 import warnings
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-
-import matplotlib.pyplot as plt
-
+from rdkit import Chem, DataStructs
+from rdkit.Chem import AllChem, Descriptors, Draw, Lipinski, MACCSkeys, rdMolDescriptors
+from rdkit.Chem.rdFingerprintGenerator import GetMorganGenerator
 from scipy.cluster.hierarchy import dendrogram, fcluster, linkage
 from scipy.spatial.distance import pdist, squareform
-
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from sklearn.metrics import adjusted_rand_score, normalized_mutual_info_score, silhouette_score
 from sklearn.preprocessing import StandardScaler
-
-from rdkit import Chem, DataStructs
-from rdkit.Chem import AllChem, Descriptors, Draw, Lipinski, MACCSkeys, rdMolDescriptors
-from rdkit.Chem.rdFingerprintGenerator import GetMorganGenerator
 
 try:
     import umap  # type: ignore
@@ -447,7 +442,7 @@ def draw_molecule_grids(df_meta: pd.DataFrame, mols: List[Chem.Mol], outdir: Pat
 
     for group in df_meta["group"].unique():
         mask = df_meta["group"].values == group
-        group_mols = [mol for mol, keep in zip(mols, mask) if keep]
+        group_mols = [mol for mol, keep in zip(mols, mask, strict=True) if keep]
         group_meta = df_meta.loc[mask].reset_index(drop=True)
         legends = [f"{r.id}\n{r.compound_name}" for r in group_meta.itertuples(index=False)]
         img = Draw.MolsToGridImage(group_mols, legends=legends, molsPerRow=5, subImgSize=(260, 190), useSVG=False)
@@ -491,7 +486,7 @@ def write_3d_sdf(df_meta: pd.DataFrame, mols: List[Chem.Mol], outdir: Path) -> p
     sdf_path = outdir / "structures_3d" / "fragrance_molecules_3d_for_jmol.sdf"
     writer = Chem.SDWriter(str(sdf_path))
     rows = []
-    for i, (row, mol) in enumerate(zip(df_meta.itertuples(index=False), mols)):
+    for i, (row, mol) in enumerate(zip(df_meta.itertuples(index=False), mols, strict=True)):
         mol3d = make_3d_conformer(mol, random_seed=42 + i)
         success = mol3d is not None
         if mol3d is not None:
@@ -575,10 +570,12 @@ def parse_int_list(text: str) -> List[int]:
     return values
 
 
-def main() -> None:
+def main(argv=None) -> None:
     parser = argparse.ArgumentParser(description="Chemoinformatics fragrance/flavour molecule analysis pipeline.")
-    parser.add_argument("--input", required=True, help="Input CSV with id, group, compound_name, smiles columns.")
-    parser.add_argument("--outdir", default="chemoinf_results", help="Output directory.")
+    here = Path(__file__).resolve().parent
+    parser.add_argument("--input", default=str(here / "data" / "fragrance_dataset.csv"),
+                        help="Input CSV with id, group, compound_name, smiles columns.")
+    parser.add_argument("--outdir", default=str(here / "results"), help="Output directory.")
     parser.add_argument("--morgan-bits", type=int, default=2048, help="Morgan fingerprint size.")
     parser.add_argument("--morgan-radius", type=int, default=2, help="Morgan fingerprint radius.")
     parser.add_argument("--skip-images", action="store_true", help="Skip 2D molecule grid generation.")
@@ -586,7 +583,7 @@ def main() -> None:
     parser.add_argument("--skip-tsne", action="store_true", help="Skip t-SNE plots. Useful for a quick first run.")
     parser.add_argument("--tsne-perplexities", default="5,15,30", help="Comma-separated t-SNE perplexities, e.g. 5,15,30.")
     parser.add_argument("--tsne-iterations", type=int, default=750, help="Number of t-SNE optimization iterations.")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     tsne_perplexities = parse_int_list(args.tsne_perplexities)
 
     input_path = Path(args.input)
