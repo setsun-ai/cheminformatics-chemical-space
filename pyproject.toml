@@ -1,0 +1,16 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning", "ignore::UserWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+include = ["fragrance/*.py", "home_pharmacy/*.py", "tests/**/*.py"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+# course scripts kept close to the submitted versions; long lines are not reformatted
+"fragrance/*.py" = ["E501"]
+"home_pharmacy/*.py" = ["E501"]
