@@ -1,0 +1,91 @@
+id,group,compound_name,physchem_TSNE1_p5,physchem_TSNE2_p5
+FRU_001,Fruity,Limonene,19.811499,16.654137
+FRU_002,Fruity,Citral,32.762173,0.2125218
+FRU_003,Fruity,Citronellal,35.152386,-0.71061957
+FRU_004,Fruity,Hexanal,44.20352,-7.4518304
+FRU_005,Fruity,Octanal,41.052246,-4.454431
+FRU_006,Fruity,Nonanal,39.33901,-1.9118714
+FRU_007,Fruity,Decanal,39.618362,1.0981677
+FRU_008,Fruity,Ethyl acetate,69.65604,-24.35578
+FRU_009,Fruity,Propyl acetate,66.3114,-22.142212
+FRU_010,Fruity,Butyl acetate,57.040264,-25.526108
+FRU_011,Fruity,Isobutyl acetate,60.938156,-24.149536
+FRU_012,Fruity,Isoamyl acetate,43.683277,-32.541878
+FRU_013,Fruity,Hexyl acetate,27.863071,-29.607325
+FRU_014,Fruity,Methyl butyrate,66.3114,-22.142212
+FRU_015,Fruity,Ethyl butyrate,57.13487,-22.380682
+FRU_016,Fruity,Propyl butyrate,38.49519,-35.39605
+FRU_017,Fruity,Methyl valerate,57.040264,-25.526108
+FRU_018,Fruity,Ethyl valerate,35.74519,-33.963642
+FRU_019,Fruity,Ethyl isovalerate,43.683277,-32.541878
+FRU_020,Fruity,Ethyl 2-methylbutyrate,43.683296,-35.742943
+FRU_021,Fruity,Methyl hexanoate,38.22024,-32.016193
+FRU_022,Fruity,Ethyl hexanoate,27.863071,-29.607325
+FRU_023,Fruity,Allyl hexanoate,24.099716,-27.242916
+FRU_024,Fruity,Hexyl butyrate,20.107939,-25.482225
+FRU_025,Fruity,gamma-Nonalactone,17.62308,-37.85132
+FRU_026,Fruity,gamma-Decalactone,16.316511,-35.97707
+FRU_027,Fruity,Raspberry ketone,-35.328747,28.210646
+FRU_028,Fruity,Benzaldehyde,-5.279339,18.391245
+FRU_029,Fruity,Methyl anthranilate,-57.735325,23.177721
+FRU_030,Fruity,Furaneol,-63.741707,18.949032
+FLO_031,Floral,Linalool,20.829128,-6.5028734
+FLO_032,Floral,Geraniol,23.580173,-6.4279575
+FLO_033,Floral,Citronellol,22.296658,-9.335182
+FLO_034,Floral,Farnesol,11.114989,-23.13478
+FLO_035,Floral,Phenethyl alcohol,-13.264887,40.728344
+FLO_036,Floral,Benzyl alcohol,-14.915783,43.07871
+FLO_037,Floral,Benzyl acetate,-19.824581,-11.711804
+FLO_038,Floral,Phenethyl acetate,-30.875452,-13.598471
+FLO_039,Floral,Geranyl acetate,15.698597,-22.509579
+FLO_040,Floral,Citronellyl acetate,15.419628,-24.932108
+FLO_041,Floral,Benzyl salicylate,-53.5228,3.2460706
+FLO_042,Floral,Benzyl benzoate,-44.060135,-10.3081665
+FLO_043,Floral,Methyl benzoate,-14.1224,-10.34639
+FLO_044,Floral,Methyl salicylate,-59.07239,19.175865
+FLO_045,Floral,Ethyl salicylate,-56.141907,14.083183
+FLO_046,Floral,Anisyl alcohol,-26.505663,33.876877
+FLO_047,Floral,Anisaldehyde,-15.742901,-12.797263
+FLO_048,Floral,Anisyl acetate,-35.98589,-5.655215
+FLO_049,Floral,Piperonal,-25.238148,-3.1274245
+FLO_050,Floral,Vanillin,-58.96423,16.323261
+FLO_051,Floral,Coumarin,-10.510468,-12.433347
+FLO_052,Floral,Cinnamyl alcohol,-10.091971,41.176125
+FLO_053,Floral,Cinnamyl formate,-29.065332,-16.815807
+FLO_054,Floral,Phenylacetaldehyde,-4.197394,15.880571
+FLO_055,Floral,Methyl phenylacetate,-18.247557,-9.56179
+FLO_056,Floral,Ethyl phenylacetate,-28.411991,-12.303348
+FLO_057,Floral,Benzyl propionate,-31.38057,-10.498065
+FLO_058,Floral,Phenethyl propionate,-38.806217,-10.339173
+FLO_059,Floral,Indole,-11.340992,47.050564
+FLO_060,Floral,Hydroxycitronellal,22.206429,-13.919459
+SPI_061,Spicy,Eugenol,-32.374477,28.860437
+SPI_062,Spicy,Isoeugenol,-34.038895,31.578959
+SPI_063,Spicy,Cinnamaldehyde,-1.5131428,14.967689
+SPI_064,Spicy,Cinnamyl acetate,-35.89274,-11.455299
+SPI_065,Spicy,Anethole,5.3120017,12.323664
+SPI_066,Spicy,Estragole,2.980436,12.9924345
+SPI_067,Spicy,Thymol,-2.4271252,41.327534
+SPI_068,Spicy,Carvacrol,-2.4271252,41.327534
+SPI_069,Spicy,Menthol,33.067886,26.849302
+SPI_070,Spicy,Menthone,26.56875,25.793081
+SPI_071,Spicy,Carvone,24.426374,24.797752
+SPI_072,Spicy,Camphor,27.68974,30.328333
+SPI_073,Spicy,Eucalyptol,28.113655,33.369526
+SPI_074,Spicy,Borneol,31.941984,29.469715
+SPI_075,Spicy,gamma-Terpinene,17.841785,17.985983
+SPI_076,Spicy,p-Cymene,15.303598,14.027289
+SPI_077,Spicy,Myrcene,19.22368,11.675338
+SPI_078,Spicy,Guaiacol,-24.36576,35.21519
+SPI_079,Spicy,4-Vinylguaiacol,-30.568876,31.889416
+SPI_080,Spicy,Zingerone,-54.593723,8.404771
+SPI_081,Spicy,Capsaicin,-57.068863,1.5446031
+SPI_082,Spicy,Piperine,-51.68161,-0.295058
+SPI_083,Spicy,Allyl isothiocyanate,70.83121,-19.564352
+SPI_084,Spicy,Methyl eugenol,-39.682964,-13.513039
+SPI_085,Spicy,Syringol,-55.80596,17.560814
+SPI_086,Spicy,Vanillyl alcohol,-55.1419,24.992718
+SPI_087,Spicy,Vanillyl acetate,-51.863155,9.938145
+SPI_088,Spicy,Safrole,-27.359638,-6.4251924
+SPI_089,Spicy,Chavicol,-8.141138,42.914394
+SPI_090,Spicy,Benzyl isothiocyanate,1.5030057,8.86636

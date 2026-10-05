@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+rdkit
+requests
+# optional, for UMAP plots:
+umap-learn

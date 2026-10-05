@@ -1,0 +1,91 @@
+id,group,compound_name,3d_conformer_success
+FRU_001,Fruity,Limonene,True
+FRU_002,Fruity,Citral,True
+FRU_003,Fruity,Citronellal,True
+FRU_004,Fruity,Hexanal,True
+FRU_005,Fruity,Octanal,True
+FRU_006,Fruity,Nonanal,True
+FRU_007,Fruity,Decanal,True
+FRU_008,Fruity,Ethyl acetate,True
+FRU_009,Fruity,Propyl acetate,True
+FRU_010,Fruity,Butyl acetate,True
+FRU_011,Fruity,Isobutyl acetate,True
+FRU_012,Fruity,Isoamyl acetate,True
+FRU_013,Fruity,Hexyl acetate,True
+FRU_014,Fruity,Methyl butyrate,True
+FRU_015,Fruity,Ethyl butyrate,True
+FRU_016,Fruity,Propyl butyrate,True
+FRU_017,Fruity,Methyl valerate,True
+FRU_018,Fruity,Ethyl valerate,True
+FRU_019,Fruity,Ethyl isovalerate,True
+FRU_020,Fruity,Ethyl 2-methylbutyrate,True
+FRU_021,Fruity,Methyl hexanoate,True
+FRU_022,Fruity,Ethyl hexanoate,True
+FRU_023,Fruity,Allyl hexanoate,True
+FRU_024,Fruity,Hexyl butyrate,True
+FRU_025,Fruity,gamma-Nonalactone,True
+FRU_026,Fruity,gamma-Decalactone,True
+FRU_027,Fruity,Raspberry ketone,True
+FRU_028,Fruity,Benzaldehyde,True
+FRU_029,Fruity,Methyl anthranilate,True
+FRU_030,Fruity,Furaneol,True
+FLO_031,Floral,Linalool,True
+FLO_032,Floral,Geraniol,True
+FLO_033,Floral,Citronellol,True
+FLO_034,Floral,Farnesol,True
+FLO_035,Floral,Phenethyl alcohol,True
+FLO_036,Floral,Benzyl alcohol,True
+FLO_037,Floral,Benzyl acetate,True
+FLO_038,Floral,Phenethyl acetate,True
+FLO_039,Floral,Geranyl acetate,True
+FLO_040,Floral,Citronellyl acetate,True
+FLO_041,Floral,Benzyl salicylate,True
+FLO_042,Floral,Benzyl benzoate,True
+FLO_043,Floral,Methyl benzoate,True
+FLO_044,Floral,Methyl salicylate,True
+FLO_045,Floral,Ethyl salicylate,True
+FLO_046,Floral,Anisyl alcohol,True
+FLO_047,Floral,Anisaldehyde,True
+FLO_048,Floral,Anisyl acetate,True
+FLO_049,Floral,Piperonal,True
+FLO_050,Floral,Vanillin,True
+FLO_051,Floral,Coumarin,True
+FLO_052,Floral,Cinnamyl alcohol,True
+FLO_053,Floral,Cinnamyl formate,True
+FLO_054,Floral,Phenylacetaldehyde,True
+FLO_055,Floral,Methyl phenylacetate,True
+FLO_056,Floral,Ethyl phenylacetate,True
+FLO_057,Floral,Benzyl propionate,True
+FLO_058,Floral,Phenethyl propionate,True
+FLO_059,Floral,Indole,True
+FLO_060,Floral,Hydroxycitronellal,True
+SPI_061,Spicy,Eugenol,True
+SPI_062,Spicy,Isoeugenol,True
+SPI_063,Spicy,Cinnamaldehyde,True
+SPI_064,Spicy,Cinnamyl acetate,True
+SPI_065,Spicy,Anethole,True
+SPI_066,Spicy,Estragole,True
+SPI_067,Spicy,Thymol,True
+SPI_068,Spicy,Carvacrol,True
+SPI_069,Spicy,Menthol,True
+SPI_070,Spicy,Menthone,True
+SPI_071,Spicy,Carvone,True
+SPI_072,Spicy,Camphor,True
+SPI_073,Spicy,Eucalyptol,True
+SPI_074,Spicy,Borneol,True
+SPI_075,Spicy,gamma-Terpinene,True
+SPI_076,Spicy,p-Cymene,True
+SPI_077,Spicy,Myrcene,True
+SPI_078,Spicy,Guaiacol,True
+SPI_079,Spicy,4-Vinylguaiacol,True
+SPI_080,Spicy,Zingerone,True
+SPI_081,Spicy,Capsaicin,True
+SPI_082,Spicy,Piperine,True
+SPI_083,Spicy,Allyl isothiocyanate,True
+SPI_084,Spicy,Methyl eugenol,True
+SPI_085,Spicy,Syringol,True
+SPI_086,Spicy,Vanillyl alcohol,True
+SPI_087,Spicy,Vanillyl acetate,True
+SPI_088,Spicy,Safrole,True
+SPI_089,Spicy,Chavicol,True
+SPI_090,Spicy,Benzyl isothiocyanate,True

@@ -1,0 +1,902 @@
+{
+  "acetaminophen": {
+    "status": "OK",
+    "query": "acetaminophen",
+    "cid": 1983,
+    "pubchem_canonical_smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "pubchem_isomeric_smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "pubchem_inchikey": "RZVAJINKPMORJF-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ibuprofen": {
+    "status": "OK",
+    "query": "ibuprofen",
+    "cid": 3672,
+    "pubchem_canonical_smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",
+    "pubchem_inchikey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "naproxen": {
+    "status": "OK",
+    "query": "naproxen",
+    "cid": 156391,
+    "pubchem_canonical_smiles": "C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O",
+    "pubchem_isomeric_smiles": "C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O",
+    "pubchem_inchikey": "CMWTZPSULFXXJA-VIFPVBQESA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ketoprofen": {
+    "status": "OK",
+    "query": "ketoprofen",
+    "cid": 3825,
+    "pubchem_canonical_smiles": "CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_inchikey": "DKYWVDODHFEZIM-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "dexketoprofen": {
+    "status": "OK",
+    "query": "dexketoprofen",
+    "cid": 667550,
+    "pubchem_canonical_smiles": "C[C@@H](C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_isomeric_smiles": "C[C@@H](C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_inchikey": "DKYWVDODHFEZIM-NSHDSACASA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "flurbiprofen": {
+    "status": "OK",
+    "query": "flurbiprofen",
+    "cid": 3394,
+    "pubchem_canonical_smiles": "CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O",
+    "pubchem_inchikey": "SYTBZMRGLBWNTM-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "fenoprofen": {
+    "status": "OK",
+    "query": "fenoprofen",
+    "cid": 3342,
+    "pubchem_canonical_smiles": "CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O",
+    "pubchem_inchikey": "RDJGLLICXDHJDY-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "tiaprofenic acid": {
+    "status": "OK",
+    "query": "tiaprofenic acid",
+    "cid": 5468,
+    "pubchem_canonical_smiles": "CC(C1=CC=C(S1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C1=CC=C(S1)C(=O)C2=CC=CC=C2)C(=O)O",
+    "pubchem_inchikey": "GUHPRPJDBZHYCJ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "aspirin": {
+    "status": "OK",
+    "query": "aspirin",
+    "cid": 2244,
+    "pubchem_canonical_smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+    "pubchem_isomeric_smiles": "CC(=O)OC1=CC=CC=C1C(=O)O",
+    "pubchem_inchikey": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "salicylic acid": {
+    "status": "OK",
+    "query": "salicylic acid",
+    "cid": 338,
+    "pubchem_canonical_smiles": "C1=CC=C(C(=C1)C(=O)O)O",
+    "pubchem_isomeric_smiles": "C1=CC=C(C(=C1)C(=O)O)O",
+    "pubchem_inchikey": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "diclofenac": {
+    "status": "OK",
+    "query": "diclofenac",
+    "cid": 3033,
+    "pubchem_canonical_smiles": "C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl",
+    "pubchem_isomeric_smiles": "C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl",
+    "pubchem_inchikey": "DCOPUUMXTXDBNB-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "aceclofenac": {
+    "status": "OK",
+    "query": "aceclofenac",
+    "cid": 71771,
+    "pubchem_canonical_smiles": "C1=CC=C(C(=C1)CC(=O)OCC(=O)O)NC2=C(C=CC=C2Cl)Cl",
+    "pubchem_isomeric_smiles": "C1=CC=C(C(=C1)CC(=O)OCC(=O)O)NC2=C(C=CC=C2Cl)Cl",
+    "pubchem_inchikey": "MNIPYSSQXLZQLJ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "indomethacin": {
+    "status": "OK",
+    "query": "indomethacin",
+    "cid": 3715,
+    "pubchem_canonical_smiles": "CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O",
+    "pubchem_isomeric_smiles": "CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O",
+    "pubchem_inchikey": "CGIGDMFJXJATDK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ketorolac": {
+    "status": "OK",
+    "query": "ketorolac",
+    "cid": 3826,
+    "pubchem_canonical_smiles": "C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O",
+    "pubchem_isomeric_smiles": "C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O",
+    "pubchem_inchikey": "OZWKMVRBQXNZKK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "mefenamic acid": {
+    "status": "OK",
+    "query": "mefenamic acid",
+    "cid": 4044,
+    "pubchem_canonical_smiles": "CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C",
+    "pubchem_isomeric_smiles": "CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C",
+    "pubchem_inchikey": "HYYBABOKPJLUIN-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "tolfenamic acid": {
+    "status": "OK",
+    "query": "tolfenamic acid",
+    "cid": 610479,
+    "pubchem_canonical_smiles": "CC1=C(C=CC=C1Cl)NC2=CC=CC=C2C(=O)O",
+    "pubchem_isomeric_smiles": "CC1=C(C=CC=C1Cl)NC2=CC=CC=C2C(=O)O",
+    "pubchem_inchikey": "YEZNLOUZAIOMLT-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "meloxicam": {
+    "status": "OK",
+    "query": "meloxicam",
+    "cid": 54677470,
+    "pubchem_canonical_smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "pubchem_isomeric_smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "pubchem_inchikey": "ZRVUJXDFFKFLMG-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "piroxicam": {
+    "status": "OK",
+    "query": "piroxicam",
+    "cid": 54676228,
+    "pubchem_canonical_smiles": "CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3",
+    "pubchem_isomeric_smiles": "CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3",
+    "pubchem_inchikey": "QYSPLQLAKJAUJT-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "lornoxicam": {
+    "status": "OK",
+    "query": "lornoxicam",
+    "cid": 54690031,
+    "pubchem_canonical_smiles": "CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3",
+    "pubchem_isomeric_smiles": "CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3",
+    "pubchem_inchikey": "WLHQHAUOOXYABV-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "nimesulide": {
+    "status": "OK",
+    "query": "nimesulide",
+    "cid": 4495,
+    "pubchem_canonical_smiles": "CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2",
+    "pubchem_isomeric_smiles": "CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2",
+    "pubchem_inchikey": "HYWYRSMBCFDLJT-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "celecoxib": {
+    "status": "OK",
+    "query": "celecoxib",
+    "cid": 2662,
+    "pubchem_canonical_smiles": "CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F",
+    "pubchem_isomeric_smiles": "CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F",
+    "pubchem_inchikey": "RZEKVGVHFLEQIL-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "etoricoxib": {
+    "status": "OK",
+    "query": "etoricoxib",
+    "cid": 123619,
+    "pubchem_canonical_smiles": "CC1=NC=C(C=C1)C2=C(C=C(C=N2)Cl)C3=CC=C(C=C3)S(=O)(=O)C",
+    "pubchem_isomeric_smiles": "CC1=NC=C(C=C1)C2=C(C=C(C=N2)Cl)C3=CC=C(C=C3)S(=O)(=O)C",
+    "pubchem_inchikey": "MNJVRJDLRVPLFE-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "metamizole": {
+    "status": "OK",
+    "query": "metamizole",
+    "cid": 3111,
+    "pubchem_canonical_smiles": "CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)O",
+    "pubchem_isomeric_smiles": "CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)O",
+    "pubchem_inchikey": "LVWZTYCIRDMTEY-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "propyphenazone": {
+    "status": "OK",
+    "query": "propyphenazone",
+    "cid": 3778,
+    "pubchem_canonical_smiles": "CC1=C(C(=O)N(N1C)C2=CC=CC=C2)C(C)C",
+    "pubchem_isomeric_smiles": "CC1=C(C(=O)N(N1C)C2=CC=CC=C2)C(C)C",
+    "pubchem_inchikey": "PXWLVJLKJGVOKE-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "antipyrine": {
+    "status": "OK",
+    "query": "antipyrine",
+    "cid": 2206,
+    "pubchem_canonical_smiles": "CC1=CC(=O)N(N1C)C2=CC=CC=C2",
+    "pubchem_isomeric_smiles": "CC1=CC(=O)N(N1C)C2=CC=CC=C2",
+    "pubchem_inchikey": "VEQOALNAAJBPNY-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "caffeine": {
+    "status": "OK",
+    "query": "caffeine",
+    "cid": 2519,
+    "pubchem_canonical_smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
+    "pubchem_isomeric_smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
+    "pubchem_inchikey": "RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "codeine": {
+    "status": "OK",
+    "query": "codeine",
+    "cid": 5284371,
+    "pubchem_canonical_smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O",
+    "pubchem_isomeric_smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O",
+    "pubchem_inchikey": "OROGSEYTTFOCAN-DNJOTXNNSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "tramadol": {
+    "status": "OK",
+    "query": "tramadol",
+    "cid": 33741,
+    "pubchem_canonical_smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "pubchem_isomeric_smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "pubchem_inchikey": "TVYLLZQTGLZFBW-ZBFHGGJFSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "benzydamine": {
+    "status": "OK",
+    "query": "benzydamine",
+    "cid": 12555,
+    "pubchem_canonical_smiles": "CN(C)CCCOC1=NN(C2=CC=CC=C21)CC3=CC=CC=C3",
+    "pubchem_isomeric_smiles": "CN(C)CCCOC1=NN(C2=CC=CC=C21)CC3=CC=CC=C3",
+    "pubchem_inchikey": "CNBGNNVCVSKAQZ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "benzocaine": {
+    "status": "OK",
+    "query": "benzocaine",
+    "cid": 2337,
+    "pubchem_canonical_smiles": "CCOC(=O)C1=CC=C(C=C1)N",
+    "pubchem_isomeric_smiles": "CCOC(=O)C1=CC=C(C=C1)N",
+    "pubchem_inchikey": "BLFLLBZGZJTVJG-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "cetirizine": {
+    "status": "OK",
+    "query": "cetirizine",
+    "cid": 2678,
+    "pubchem_canonical_smiles": "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_isomeric_smiles": "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_inchikey": "ZKLPARSLTMPFCP-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "levocetirizine": {
+    "status": "OK",
+    "query": "levocetirizine",
+    "cid": 1549000,
+    "pubchem_canonical_smiles": "C1CN(CCN1CCOCC(=O)O)[C@H](C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_isomeric_smiles": "C1CN(CCN1CCOCC(=O)O)[C@H](C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_inchikey": "ZKLPARSLTMPFCP-OAQYLSRUSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "loratadine": {
+    "status": "OK",
+    "query": "loratadine",
+    "cid": 3957,
+    "pubchem_canonical_smiles": "CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1",
+    "pubchem_isomeric_smiles": "CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1",
+    "pubchem_inchikey": "JCCNYMKQOSZNPW-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "desloratadine": {
+    "status": "OK",
+    "query": "desloratadine",
+    "cid": 124087,
+    "pubchem_canonical_smiles": "C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4",
+    "pubchem_isomeric_smiles": "C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4",
+    "pubchem_inchikey": "JAUOIFJMECXRGI-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "fexofenadine": {
+    "status": "OK",
+    "query": "fexofenadine",
+    "cid": 3348,
+    "pubchem_canonical_smiles": "CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O",
+    "pubchem_inchikey": "RWTNPBWLLIMQHL-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "bilastine": {
+    "status": "OK",
+    "query": "bilastine",
+    "cid": 185460,
+    "pubchem_canonical_smiles": "CCOCCN1C2=CC=CC=C2N=C1C3CCN(CC3)CCC4=CC=C(C=C4)C(C)(C)C(=O)O",
+    "pubchem_isomeric_smiles": "CCOCCN1C2=CC=CC=C2N=C1C3CCN(CC3)CCC4=CC=C(C=C4)C(C)(C)C(=O)O",
+    "pubchem_inchikey": "ACCMWZWAEFYUGZ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ebastine": {
+    "status": "OK",
+    "query": "ebastine",
+    "cid": 3191,
+    "pubchem_canonical_smiles": "CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CCC(CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_isomeric_smiles": "CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CCC(CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_inchikey": "MJJALKDDGIKVBE-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "rupatadine": {
+    "status": "OK",
+    "query": "rupatadine",
+    "cid": 133017,
+    "pubchem_canonical_smiles": "CC1=CC(=CN=C1)CN2CCC(=C3C4=C(CCC5=C3N=CC=C5)C=C(C=C4)Cl)CC2",
+    "pubchem_isomeric_smiles": "CC1=CC(=CN=C1)CN2CCC(=C3C4=C(CCC5=C3N=CC=C5)C=C(C=C4)Cl)CC2",
+    "pubchem_inchikey": "WUZYKBABMWJHDL-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "diphenhydramine": {
+    "status": "OK",
+    "query": "diphenhydramine",
+    "cid": 3100,
+    "pubchem_canonical_smiles": "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2",
+    "pubchem_isomeric_smiles": "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2",
+    "pubchem_inchikey": "ZZVUWRFHKOJYTH-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "chlorpheniramine": {
+    "status": "OK",
+    "query": "chlorpheniramine",
+    "cid": 2725,
+    "pubchem_canonical_smiles": "CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2",
+    "pubchem_isomeric_smiles": "CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2",
+    "pubchem_inchikey": "SOYKEARSMXGVTM-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "clemastine": {
+    "status": "OK",
+    "query": "clemastine",
+    "cid": 26987,
+    "pubchem_canonical_smiles": "C[C@@](C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCC[C@H]3CCCN3C",
+    "pubchem_isomeric_smiles": "C[C@@](C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCC[C@H]3CCCN3C",
+    "pubchem_inchikey": "YNNUSGIPVFPVBX-NHCUHLMSSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "hydroxyzine": {
+    "status": "OK",
+    "query": "hydroxyzine",
+    "cid": 3658,
+    "pubchem_canonical_smiles": "C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_isomeric_smiles": "C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "pubchem_inchikey": "ZQDWXGKKHFNSQK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "phenylephrine": {
+    "status": "OK",
+    "query": "phenylephrine",
+    "cid": 6041,
+    "pubchem_canonical_smiles": "CNC[C@@H](C1=CC(=CC=C1)O)O",
+    "pubchem_isomeric_smiles": "CNC[C@@H](C1=CC(=CC=C1)O)O",
+    "pubchem_inchikey": "SONNWYBIRXJNDC-VIFPVBQESA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "pseudoephedrine": {
+    "status": "OK",
+    "query": "pseudoephedrine",
+    "cid": 7028,
+    "pubchem_canonical_smiles": "C[C@@H]([C@H](C1=CC=CC=C1)O)NC",
+    "pubchem_isomeric_smiles": "C[C@@H]([C@H](C1=CC=CC=C1)O)NC",
+    "pubchem_inchikey": "KWGRBVOPPLSCSI-WCBMZHEXSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ephedrine": {
+    "status": "OK",
+    "query": "ephedrine",
+    "cid": 9294,
+    "pubchem_canonical_smiles": "C[C@@H]([C@@H](C1=CC=CC=C1)O)NC",
+    "pubchem_isomeric_smiles": "C[C@@H]([C@@H](C1=CC=CC=C1)O)NC",
+    "pubchem_inchikey": "KWGRBVOPPLSCSI-WPRPVWTQSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "xylometazoline": {
+    "status": "OK",
+    "query": "xylometazoline",
+    "cid": 5709,
+    "pubchem_canonical_smiles": "CC1=CC(=CC(=C1CC2=NCCN2)C)C(C)(C)C",
+    "pubchem_isomeric_smiles": "CC1=CC(=CC(=C1CC2=NCCN2)C)C(C)(C)C",
+    "pubchem_inchikey": "HUCJFAOMUPXHDK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "oxymetazoline": {
+    "status": "OK",
+    "query": "oxymetazoline",
+    "cid": 4636,
+    "pubchem_canonical_smiles": "CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C",
+    "pubchem_isomeric_smiles": "CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C",
+    "pubchem_inchikey": "WYWIFABBXFUGLM-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "naphazoline": {
+    "status": "OK",
+    "query": "naphazoline",
+    "cid": 4436,
+    "pubchem_canonical_smiles": "C1CN=C(N1)CC2=CC=CC3=CC=CC=C32",
+    "pubchem_isomeric_smiles": "C1CN=C(N1)CC2=CC=CC3=CC=CC=C32",
+    "pubchem_inchikey": "CNIIGCLFLJGOGP-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "dextromethorphan": {
+    "status": "OK",
+    "query": "dextromethorphan",
+    "cid": 5360696,
+    "pubchem_canonical_smiles": "CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC",
+    "pubchem_isomeric_smiles": "CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC",
+    "pubchem_inchikey": "MKXZASYAUGDDCJ-NJAFHUGGSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "butamirate citrate": {
+    "status": "OK",
+    "query": "butamirate citrate",
+    "cid": 28891,
+    "pubchem_canonical_smiles": "CCC(C1=CC=CC=C1)C(=O)OCCOCCN(CC)CC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "pubchem_isomeric_smiles": "CCC(C1=CC=CC=C1)C(=O)OCCOCCN(CC)CC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "pubchem_inchikey": "JVKMHUAWFDGPTF-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "noscapine": {
+    "status": "OK",
+    "query": "noscapine",
+    "cid": 275196,
+    "pubchem_canonical_smiles": "CN1CCC2=CC3=C(C(=C2[C@@H]1[C@@H]4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3",
+    "pubchem_isomeric_smiles": "CN1CCC2=CC3=C(C(=C2[C@@H]1[C@@H]4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3",
+    "pubchem_inchikey": "AKNNEGZIBPJZJG-MSOLQXFVSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ambroxol": {
+    "status": "OK",
+    "query": "ambroxol",
+    "cid": 2132,
+    "pubchem_canonical_smiles": "C1CC(CCC1NCC2=C(C(=CC(=C2)Br)Br)N)O",
+    "pubchem_isomeric_smiles": "C1CC(CCC1NCC2=C(C(=CC(=C2)Br)Br)N)O",
+    "pubchem_inchikey": "JBDGDEWWOUBZPM-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "bromhexine": {
+    "status": "OK",
+    "query": "bromhexine",
+    "cid": 2442,
+    "pubchem_canonical_smiles": "CN(CC1=C(C(=CC(=C1)Br)Br)N)C2CCCCC2",
+    "pubchem_isomeric_smiles": "CN(CC1=C(C(=CC(=C1)Br)Br)N)C2CCCCC2",
+    "pubchem_inchikey": "OJGDCBLYJGHCIH-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "guaifenesin": {
+    "status": "OK",
+    "query": "guaifenesin",
+    "cid": 3516,
+    "pubchem_canonical_smiles": "COC1=CC=CC=C1OCC(CO)O",
+    "pubchem_isomeric_smiles": "COC1=CC=CC=C1OCC(CO)O",
+    "pubchem_inchikey": "HSRJKNPTNIJEKV-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "acetylcysteine": {
+    "status": "OK",
+    "query": "acetylcysteine",
+    "cid": 12035,
+    "pubchem_canonical_smiles": "CC(=O)N[C@@H](CS)C(=O)O",
+    "pubchem_isomeric_smiles": "CC(=O)N[C@@H](CS)C(=O)O",
+    "pubchem_inchikey": "PWKSKIMOESPYIA-BYPYZUCNSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "carbocysteine": {
+    "status": "OK",
+    "query": "carbocysteine",
+    "cid": 193653,
+    "pubchem_canonical_smiles": "C([C@@H](C(=O)O)N)SCC(=O)O",
+    "pubchem_isomeric_smiles": "C([C@@H](C(=O)O)N)SCC(=O)O",
+    "pubchem_inchikey": "GBFLZEXEOZUWRN-VKHMYHEASA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "erdosteine": {
+    "status": "OK",
+    "query": "erdosteine",
+    "cid": 65632,
+    "pubchem_canonical_smiles": "C1CSC(=O)C1NC(=O)CSCC(=O)O",
+    "pubchem_isomeric_smiles": "C1CSC(=O)C1NC(=O)CSCC(=O)O",
+    "pubchem_inchikey": "QGFORSXNKQLDNO-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "albuterol": {
+    "status": "OK",
+    "query": "albuterol",
+    "cid": 2083,
+    "pubchem_canonical_smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O",
+    "pubchem_isomeric_smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O",
+    "pubchem_inchikey": "NDAUXUAQIAJITI-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "montelukast": {
+    "status": "OK",
+    "query": "montelukast",
+    "cid": 5281040,
+    "pubchem_canonical_smiles": "CC(C)(C1=CC=CC=C1CC[C@H](C2=CC=CC(=C2)/C=C/C3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O",
+    "pubchem_isomeric_smiles": "CC(C)(C1=CC=CC=C1CC[C@H](C2=CC=CC(=C2)/C=C/C3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O",
+    "pubchem_inchikey": "UCHDWCPVSPXUMX-TZIWLTJVSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "azelastine": {
+    "status": "OK",
+    "query": "azelastine",
+    "cid": 2267,
+    "pubchem_canonical_smiles": "CN1CCCC(CC1)N2C(=O)C3=CC=CC=C3C(=N2)CC4=CC=C(C=C4)Cl",
+    "pubchem_isomeric_smiles": "CN1CCCC(CC1)N2C(=O)C3=CC=CC=C3C(=N2)CC4=CC=C(C=C4)Cl",
+    "pubchem_inchikey": "MBUVEWMHONZEQD-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "omeprazole": {
+    "status": "OK",
+    "query": "omeprazole",
+    "cid": 4594,
+    "pubchem_canonical_smiles": "CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC",
+    "pubchem_isomeric_smiles": "CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC",
+    "pubchem_inchikey": "SUBDBMMJDZJVOS-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "esomeprazole": {
+    "status": "OK",
+    "query": "esomeprazole",
+    "cid": 9568614,
+    "pubchem_canonical_smiles": "CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C(N2)C=C(C=C3)OC",
+    "pubchem_isomeric_smiles": "CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C(N2)C=C(C=C3)OC",
+    "pubchem_inchikey": "SUBDBMMJDZJVOS-DEOSSOPVSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "pantoprazole": {
+    "status": "OK",
+    "query": "pantoprazole",
+    "cid": 4679,
+    "pubchem_canonical_smiles": "COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC",
+    "pubchem_isomeric_smiles": "COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC",
+    "pubchem_inchikey": "IQPSEEYGBUAQFF-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "lansoprazole": {
+    "status": "OK",
+    "query": "lansoprazole",
+    "cid": 3883,
+    "pubchem_canonical_smiles": "CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F",
+    "pubchem_isomeric_smiles": "CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F",
+    "pubchem_inchikey": "MJIHNNLFOKEZEW-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "rabeprazole": {
+    "status": "OK",
+    "query": "rabeprazole",
+    "cid": 5029,
+    "pubchem_canonical_smiles": "CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCCCOC",
+    "pubchem_isomeric_smiles": "CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCCCOC",
+    "pubchem_inchikey": "YREYEVIYCVEVJK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "famotidine": {
+    "status": "OK",
+    "query": "famotidine",
+    "cid": 5702160,
+    "pubchem_canonical_smiles": "C1=C(N=C(S1)N=C(N)N)CSCC/C(=N/S(=O)(=O)N)/N",
+    "pubchem_isomeric_smiles": "C1=C(N=C(S1)N=C(N)N)CSCC/C(=N/S(=O)(=O)N)/N",
+    "pubchem_inchikey": "XUFQPHANEAPEMJ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "cimetidine": {
+    "status": "OK",
+    "query": "cimetidine",
+    "cid": 2756,
+    "pubchem_canonical_smiles": "CC1=C(N=CN1)CSCCNC(=NC)NC#N",
+    "pubchem_isomeric_smiles": "CC1=C(N=CN1)CSCCNC(=NC)NC#N",
+    "pubchem_inchikey": "AQIXAKUUQRKLND-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ranitidine": {
+    "status": "OK",
+    "query": "ranitidine",
+    "cid": 3001055,
+    "pubchem_canonical_smiles": "CN/C(=C\\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C",
+    "pubchem_isomeric_smiles": "CN/C(=C\\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C",
+    "pubchem_inchikey": "VMXUWOKSQNHOCA-UKTHLTGXSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "nizatidine": {
+    "status": "OK",
+    "query": "nizatidine",
+    "cid": 4513,
+    "pubchem_canonical_smiles": "CNC(=C[N+](=O)[O-])NCCSCC1=CSC(=N1)CN(C)C",
+    "pubchem_isomeric_smiles": "CNC(=C[N+](=O)[O-])NCCSCC1=CSC(=N1)CN(C)C",
+    "pubchem_inchikey": "SGXXNSQHWDMGGP-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "lafutidine": {
+    "status": "OK",
+    "query": "lafutidine",
+    "cid": 5282136,
+    "pubchem_canonical_smiles": "C1CCN(CC1)CC2=CC(=NC=C2)OC/C=C\\CNC(=O)CS(=O)CC3=CC=CO3",
+    "pubchem_isomeric_smiles": "C1CCN(CC1)CC2=CC(=NC=C2)OC/C=C\\CNC(=O)CS(=O)CC3=CC=CO3",
+    "pubchem_inchikey": "KMZQAVXSMUKBPD-DJWKRKHSSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "loperamide": {
+    "status": "OK",
+    "query": "loperamide",
+    "cid": 3955,
+    "pubchem_canonical_smiles": "CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_isomeric_smiles": "CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_inchikey": "RDOIQAHITMMDAJ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "diphenoxylate": {
+    "status": "OK",
+    "query": "diphenoxylate",
+    "cid": 13505,
+    "pubchem_canonical_smiles": "CCOC(=O)C1(CCN(CC1)CCC(C#N)(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_isomeric_smiles": "CCOC(=O)C1(CCN(CC1)CCC(C#N)(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4",
+    "pubchem_inchikey": "HYPPXZBJBPSRLK-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "racecadotril": {
+    "status": "OK",
+    "query": "racecadotril",
+    "cid": 107751,
+    "pubchem_canonical_smiles": "CC(=O)SCC(CC1=CC=CC=C1)C(=O)NCC(=O)OCC2=CC=CC=C2",
+    "pubchem_isomeric_smiles": "CC(=O)SCC(CC1=CC=CC=C1)C(=O)NCC(=O)OCC2=CC=CC=C2",
+    "pubchem_inchikey": "ODUOJXZPIYUATO-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "metoclopramide": {
+    "status": "OK",
+    "query": "metoclopramide",
+    "cid": 4168,
+    "pubchem_canonical_smiles": "CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl",
+    "pubchem_isomeric_smiles": "CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl",
+    "pubchem_inchikey": "TTWJBBZEZQICBI-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "domperidone": {
+    "status": "OK",
+    "query": "domperidone",
+    "cid": 3151,
+    "pubchem_canonical_smiles": "C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O",
+    "pubchem_isomeric_smiles": "C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O",
+    "pubchem_inchikey": "FGXWKSZFVQUSTL-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "ondansetron": {
+    "status": "OK",
+    "query": "ondansetron",
+    "cid": 4595,
+    "pubchem_canonical_smiles": "CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C",
+    "pubchem_isomeric_smiles": "CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C",
+    "pubchem_inchikey": "FELGMEQIXOGIFQ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "granisetron": {
+    "status": "OK",
+    "query": "granisetron",
+    "cid": 5284566,
+    "pubchem_canonical_smiles": "CN1[C@@H]2CCC[C@H]1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C",
+    "pubchem_isomeric_smiles": "CN1[C@@H]2CCC[C@H]1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C",
+    "pubchem_inchikey": "MFWNKCLOYSRHCJ-AGUYFDCRSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "itopride": {
+    "status": "OK",
+    "query": "itopride",
+    "cid": 3792,
+    "pubchem_canonical_smiles": "CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C=C2)OC)OC",
+    "pubchem_isomeric_smiles": "CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C=C2)OC)OC",
+    "pubchem_inchikey": "QQQIECGTIMUVDS-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "mosapride": {
+    "status": "OK",
+    "query": "mosapride",
+    "cid": 119584,
+    "pubchem_canonical_smiles": "CCOC1=CC(=C(C=C1C(=O)NCC2CN(CCO2)CC3=CC=C(C=C3)F)Cl)N",
+    "pubchem_isomeric_smiles": "CCOC1=CC(=C(C=C1C(=O)NCC2CN(CCO2)CC3=CC=C(C=C3)F)Cl)N",
+    "pubchem_inchikey": "YPELFRMCRYSPKZ-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "prucalopride": {
+    "status": "OK",
+    "query": "prucalopride",
+    "cid": 3052762,
+    "pubchem_canonical_smiles": "COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl",
+    "pubchem_isomeric_smiles": "COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl",
+    "pubchem_inchikey": "ZPMNHBXQOOVQJL-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "scopolamine": {
+    "status": "OK",
+    "query": "scopolamine",
+    "cid": 3000322,
+    "pubchem_canonical_smiles": "CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4",
+    "pubchem_isomeric_smiles": "CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4",
+    "pubchem_inchikey": "STECJAGHUSJQJN-USLFZFAMSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "drotaverine": {
+    "status": "OK",
+    "query": "drotaverine",
+    "cid": 1712095,
+    "pubchem_canonical_smiles": "CCOC1=C(C=C(C=C1)/C=C\\2/C3=CC(=C(C=C3CCN2)OCC)OCC)OCC",
+    "pubchem_isomeric_smiles": "CCOC1=C(C=C(C=C1)/C=C\\2/C3=CC(=C(C=C3CCN2)OCC)OCC)OCC",
+    "pubchem_inchikey": "OMFNSKIUKYOYRG-MOSHPQCFSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "mebeverine": {
+    "status": "OK",
+    "query": "mebeverine",
+    "cid": 4031,
+    "pubchem_canonical_smiles": "CCN(CCCCOC(=O)C1=CC(=C(C=C1)OC)OC)C(C)CC2=CC=C(C=C2)OC",
+    "pubchem_isomeric_smiles": "CCN(CCCCOC(=O)C1=CC(=C(C=C1)OC)OC)C(C)CC2=CC=C(C=C2)OC",
+    "pubchem_inchikey": "VYVKHNNGDFVQGA-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "trimebutine": {
+    "status": "OK",
+    "query": "trimebutine",
+    "cid": 5573,
+    "pubchem_canonical_smiles": "CCC(COC(=O)C1=CC(=C(C(=C1)OC)OC)OC)(C2=CC=CC=C2)N(C)C",
+    "pubchem_isomeric_smiles": "CCC(COC(=O)C1=CC(=C(C(=C1)OC)OC)OC)(C2=CC=CC=C2)N(C)C",
+    "pubchem_inchikey": "LORDFXWUHHSAQU-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "alverine": {
+    "status": "OK",
+    "query": "alverine",
+    "cid": 3678,
+    "pubchem_canonical_smiles": "CCN(CCCC1=CC=CC=C1)CCCC2=CC=CC=C2",
+    "pubchem_isomeric_smiles": "CCN(CCCC1=CC=CC=C1)CCCC2=CC=CC=C2",
+    "pubchem_inchikey": "ZPFXAOWNKLFJDN-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "otilonium bromide": {
+    "status": "OK",
+    "query": "otilonium bromide",
+    "cid": 72092,
+    "pubchem_canonical_smiles": "CCCCCCCCOC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)OCC[N+](C)(CC)CC.[Br-]",
+    "pubchem_isomeric_smiles": "CCCCCCCCOC1=CC=CC=C1C(=O)NC2=CC=C(C=C2)C(=O)OCC[N+](C)(CC)CC.[Br-]",
+    "pubchem_inchikey": "VWZPIJGXYWHBOW-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "pinaverium bromide": {
+    "status": "OK",
+    "query": "pinaverium bromide",
+    "cid": 40703,
+    "pubchem_canonical_smiles": "CC1(C2CCC(C1C2)CCOCC[N+]3(CCOCC3)CC4=CC(=C(C=C4Br)OC)OC)C.[Br-]",
+    "pubchem_isomeric_smiles": "CC1(C2CCC(C1C2)CCOCC[N+]3(CCOCC3)CC4=CC(=C(C=C4Br)OC)OC)C.[Br-]",
+    "pubchem_inchikey": "IKGXLCMLVINENI-UHFFFAOYSA-M",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "dicyclomine": {
+    "status": "OK",
+    "query": "dicyclomine",
+    "cid": 3042,
+    "pubchem_canonical_smiles": "CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2",
+    "pubchem_isomeric_smiles": "CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2",
+    "pubchem_inchikey": "CURUTKGFNZGFSE-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "bisacodyl": {
+    "status": "OK",
+    "query": "bisacodyl",
+    "cid": 2391,
+    "pubchem_canonical_smiles": "CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3",
+    "pubchem_isomeric_smiles": "CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3",
+    "pubchem_inchikey": "KHOITXIGCFIULA-UHFFFAOYSA-N",
+    "smiles_source": "SMILES",
+    "error": ""
+  },
+  "sodium picosulfate": {
+    "status": "OK",
+    "query": "sodium picosulfate",
+    "cid": 68654,
+    "pubchem_canonical_smiles": "C1=CC=NC(=C1)C(C2=CC=C(C=C2)OS(=O)(=O)[O-])C3=CC=C(C=C3)OS(=O)(=O)[O-].[Na+].[Na+]",
+    "pubchem_isomeric_smiles": "C1=CC=NC(=C1)C(C2=CC=C(C=C2)OS(=O)(=O)[O-])C3=CC=C(C=C3)OS(=O)(=O)[O-].[Na+].[Na+]",
+    "pubchem_inchikey": "GOZDTZWAMGHLDY-UHFFFAOYSA-L",
+    "smiles_source": "SMILES",
+    "error": ""
+  }
+}

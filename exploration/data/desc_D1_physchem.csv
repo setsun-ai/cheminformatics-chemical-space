@@ -1,0 +1,91 @@
+group,subgroup,name,cid,smiles,MW,logP,TPSA,HBD,HBA,RotB,HeavyAtoms,Rings,AromaticRings,FractionCSP3,NumAliphaticRings,NumSaturatedRings,NumHeteroatoms,MolMR,BalabanJ,BertzCT,LabuteASA
+A_terpeny,acyclic_mono,beta-myrcene,31253,C=CC(=C)CCC=C(C)C,136.238,3.475,0.0,0,0,4,10,0,0,0.4,0,0,0,48.002,3.4629,145.421,63.955
+A_terpeny,acyclic_mono,beta-ocimene,18756,C=CC(C)=CCC=C(C)C,136.238,3.475,0.0,0,0,3,10,0,0,0.4,0,0,0,48.002,3.7353,154.877,63.955
+A_terpeny,acyclic_mono,linalool,6549,C=CC(C)(O)CCC=C(C)C,154.253,2.67,20.23,1,1,4,11,0,0,0.6,0,0,1,49.486,3.7059,150.256,69.439
+A_terpeny,acyclic_mono,geraniol,637566,CC(C)=CCC/C(C)=C/CO,154.253,2.671,20.23,1,1,4,11,0,0,0.6,0,0,1,49.508,3.5444,150.256,69.439
+A_terpeny,acyclic_mono,nerol,643820,CC(C)=CCC/C(C)=C\CO,154.253,2.671,20.23,1,1,4,11,0,0,0.6,0,0,1,49.508,3.5444,150.256,69.439
+A_terpeny,acyclic_mono,citronellol,8842,CC(C)=CCCC(C)CCO,156.269,2.751,20.23,1,1,5,11,0,0,0.8,0,0,1,49.532,3.3064,112.041,70.128
+A_terpeny,monocyclic,limonene,22311,C=C(C)C1CC=C(C)CC1,136.238,3.309,0.0,0,0,1,10,1,0,0.6,1,0,0,45.912,2.4954,162.877,63.639
+A_terpeny,monocyclic,alpha-terpineol,17100,CC1=CCC(C(C)(C)O)CC1,154.253,2.504,20.23,1,1,1,11,1,0,0.8,1,0,1,47.396,2.5386,162.202,69.123
+A_terpeny,monocyclic,gamma-terpinene,7461,CC1=CCC(C(C)C)=CC1,136.238,3.309,0.0,0,0,1,10,1,0,0.6,1,0,0,45.912,2.5385,170.477,63.639
+A_terpeny,monocyclic,terpinolene,11463,CC1=CCC(=C(C)C)CC1,136.238,3.453,0.0,0,0,0,10,1,0,0.6,1,0,0,45.982,2.6687,178.215,63.639
+A_terpeny,monocyclic,menthol,1254,CC1CCC(C(C)C)C(O)C1,156.269,2.44,20.23,1,1,1,11,1,0,1.0,1,1,1,47.35,2.4372,120.041,69.812
+A_terpeny,monocyclic,carvone,7439,C=C(C)C1CC=C(C)C(=O)C1,150.221,2.488,17.07,0,1,1,11,1,0,0.5,1,0,1,46.302,2.6983,223.027,67.8
+A_terpeny,monocyclic,pulegone,442495,CC(C)=C1CC[C@@H](C)CC1=O,152.237,2.712,17.07,0,1,0,11,1,0,0.7,1,1,1,46.396,2.7359,196.918,68.49
+A_terpeny,monocyclic,p-cymene,7463,Cc1ccc(C(C)C)cc1,134.222,3.118,0.0,0,0,1,10,1,1,0.4,0,0,0,45.268,2.8938,193.783,62.891
+A_terpeny,bicyclic,alpha-pinene,6654,CC1=CCC2CC1C2(C)C,136.238,2.999,0.0,0,0,0,10,3,0,0.8,3,1,0,43.752,2.2966,186.215,63.322
+A_terpeny,bicyclic,beta-pinene,14896,C=C1CCC2CC1C2(C)C,136.238,2.999,0.0,0,0,0,10,3,0,0.8,3,3,0,43.752,2.2311,174.477,63.322
+A_terpeny,bicyclic,camphor,2537,CC12CCC(CC1=O)C2(C)C,152.237,2.402,17.07,0,1,0,11,2,0,0.9,2,2,1,44.236,2.4742,216.913,68.174
+A_terpeny,bicyclic,borneol,64685,CC1(C)C2CCC1(C)C(O)C2,154.253,2.194,20.23,1,1,0,11,2,0,1.0,2,2,1,45.236,2.3963,185.312,68.806
+A_terpeny,bicyclic,sabinene,18818,C=C1CCC2(C(C)C)CC12,136.238,2.999,0.0,0,0,1,10,2,0,0.8,2,2,0,43.752,2.1771,178.477,63.322
+A_terpeny,bicyclic,3-carene,26049,CC1=CCC2C(C1)C2(C)C,136.238,2.999,0.0,0,0,0,10,2,0,0.8,2,1,0,43.752,2.1301,186.215,63.322
+A_terpeny,bicyclic,eucalyptol,2758,CC12CCC(CC1)C(C)(C)O2,154.253,2.744,9.23,0,1,0,11,3,0,1.0,3,3,1,45.527,2.224,160.957,69.126
+A_terpeny,bicyclic,fenchone,14525,CC12CCC(C1)C(C)(C)C2=O,152.237,2.402,17.07,0,1,0,11,2,0,0.9,2,2,1,44.236,2.4164,210.158,68.174
+A_terpeny,sesqui,beta-caryophyllene,5281515,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,204.357,4.725,0.0,0,0,0,15,2,0,0.733,2,1,0,66.743,2.1196,293.16,94.458
+A_terpeny,sesqui,alpha-humulene,5281520,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,204.357,5.035,0.0,0,0,0,15,1,0,0.6,1,0,0,68.903,2.7906,287.16,94.774
+A_terpeny,sesqui,farnesol,445070,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO,222.372,4.398,20.23,1,1,7,16,0,0,0.6,0,0,1,72.499,3.7882,265.16,100.574
+A_terpeny,sesqui,nerolidol,5284507,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C,222.372,4.396,20.23,1,1,7,16,0,0,0.6,0,0,1,72.477,3.8771,265.16,100.574
+A_terpeny,sesqui,alpha-bisabolol,1549992,CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1,222.372,4.23,20.23,1,1,4,16,1,0,0.733,1,0,1,70.387,2.4717,279.81,100.258
+A_terpeny,sesqui,cedrol,65575,C[C@@H]1CC[C@H]2C(C)(C)[C@H]3C[C@@]12CC[C@@]3(C)O,222.372,3.61,20.23,1,1,0,16,3,0,1.0,3,3,1,66.067,2.0672,313.397,99.625
+A_terpeny,sesqui,guaiol,227829,C[C@H]1CC[C@@H](C(C)(C)O)CC2=C1CC[C@@H]2C,222.372,3.92,20.23,1,1,1,16,2,0,0.867,2,0,1,68.227,2.2305,295.047,99.941
+A_terpeny,sesqui,valencene,9855795,C=C(C)[C@@H]1CCC2=CCC[C@@H](C)[C@]2(C)C1,204.357,4.725,0.0,0,0,1,15,2,0,0.733,2,1,0,66.743,2.2366,297.16,94.458
+B_estry,acetate_short,ethyl acetate,8857,CCOC(C)=O,88.106,0.569,26.3,0,2,1,6,0,0,0.75,0,0,2,22.307,2.8313,49.51,37.109
+B_estry,acetate_short,propyl acetate,7997,CCCOC(C)=O,102.133,0.96,26.3,0,2,2,7,0,0,0.8,0,0,2,26.924,2.8219,59.1,43.474
+B_estry,acetate_short,butyl acetate,31272,CCCCOC(C)=O,116.16,1.35,26.3,0,2,3,8,0,0,0.833,0,0,2,31.541,2.8224,68.929,49.839
+B_estry,acetate_short,isoamyl acetate,31276,CC(=O)OCCC(C)C,130.187,1.596,26.3,0,2,3,9,0,0,0.857,0,0,2,36.088,3.0061,86.917,56.204
+B_estry,acetate_short,hexyl acetate,8908,CCCCCCOC(C)=O,144.214,2.13,26.3,0,2,5,10,0,0,0.875,0,0,2,40.775,2.8386,89.258,62.569
+B_estry,acetate_short,isobutyl acetate,8038,CC(=O)OCC(C)C,116.16,1.206,26.3,0,2,2,8,0,0,0.833,0,0,2,31.471,3.0501,76.598,49.839
+B_estry,acetate_terpene_aromatic,benzyl acetate,8785,CC(=O)OCc1ccccc1,150.177,1.75,26.3,0,2,2,11,1,1,0.222,0,0,2,41.912,2.453,228.578,65.801
+B_estry,acetate_terpene_aromatic,linalyl acetate,8294,C=CC(C)(CCC=C(C)C)OC(C)=O,196.29,3.241,26.3,0,2,5,14,0,0,0.583,0,0,2,59.033,4.1876,236.706,86.649
+B_estry,acetate_terpene_aromatic,geranyl acetate,1549026,CC(=O)OC/C=C(\C)CCC=C(C)C,196.29,3.242,26.3,0,2,5,14,0,0,0.583,0,0,2,59.055,3.6704,232.706,86.649
+B_estry,acetate_terpene_aromatic,citronellyl acetate,9017,CC(=O)OCCC(C)CCC=C(C)C,198.306,3.322,26.3,0,2,6,14,0,0,0.75,0,0,2,59.079,3.4113,190.498,87.339
+B_estry,acetate_terpene_aromatic,phenethyl acetate,7654,CC(=O)OCCc1ccccc1,164.204,1.792,26.3,0,2,3,12,1,1,0.3,0,0,2,46.779,2.2906,241.275,72.166
+B_estry,acetate_terpene_aromatic,cinnamyl acetate,5282110,CC(=O)OC/C=C/c1ccccc1,176.215,2.263,26.3,0,2,3,13,1,1,0.182,0,0,2,52.109,2.3677,288.218,77.842
+B_estry,butyrate,methyl butyrate,12180,CCCC(=O)OC,102.133,0.96,26.3,0,2,2,7,0,0,0.8,0,0,2,26.924,3.0026,59.1,43.474
+B_estry,butyrate,ethyl butyrate,7762,CCCC(=O)OCC,116.16,1.35,26.3,0,2,3,8,0,0,0.833,0,0,2,31.541,3.0552,60.929,49.839
+B_estry,butyrate,propyl butyrate,7770,CCCOC(=O)CCC,130.187,1.74,26.3,0,2,4,9,0,0,0.857,0,0,2,36.158,3.0613,78.985,56.204
+B_estry,butyrate,butyl butyrate,7983,CCCCOC(=O)CCC,144.214,2.13,26.3,0,2,5,10,0,0,0.875,0,0,2,40.775,3.0524,89.258,62.569
+B_estry,butyrate,isoamyl butyrate,7795,CCCC(=O)OCCC(C)C,158.241,2.376,26.3,0,2,5,11,0,0,0.889,0,0,2,45.322,3.1728,108.13,68.934
+B_estry,butyrate,hexyl butyrate,17525,CCCCCCOC(=O)CCC,172.268,2.91,26.3,0,2,7,12,0,0,0.9,0,0,2,50.009,3.0296,110.406,75.299
+B_estry,butyrate,amyl butyrate,10890,CCCCCOC(=O)CCC,158.241,2.52,26.3,0,2,6,11,0,0,0.889,0,0,2,45.392,3.0404,99.736,68.934
+B_estry,long_chain,methyl hexanoate,7824,CCCCCC(=O)OC,130.187,1.74,26.3,0,2,4,9,0,0,0.857,0,0,2,36.158,2.9731,78.985,56.204
+B_estry,long_chain,ethyl hexanoate,31265,CCCCCC(=O)OCC,144.214,2.13,26.3,0,2,5,10,0,0,0.875,0,0,2,40.775,3.0524,89.258,62.569
+B_estry,long_chain,methyl octanoate,8091,CCCCCCCC(=O)OC,158.241,2.52,26.3,0,2,6,11,0,0,0.889,0,0,2,45.392,2.955,99.736,68.934
+B_estry,long_chain,ethyl octanoate,7799,CCCCCCCC(=O)OCC,172.268,2.91,26.3,0,2,7,12,0,0,0.9,0,0,2,50.009,3.0296,110.406,75.299
+B_estry,long_chain,ethyl decanoate,8048,CCCCCCCCCC(=O)OCC,200.322,3.69,26.3,0,2,9,14,0,0,0.917,0,0,2,59.243,3.0148,132.283,88.029
+B_estry,aromatic_ester,methyl salicylate,4133,COC(=O)c1ccccc1O,152.149,1.179,46.53,1,3,1,11,1,1,0.125,0,0,3,39.446,3.0327,267.795,64.231
+B_estry,aromatic_ester,methyl anthranilate,8635,COC(=O)c1ccccc1N,151.165,1.055,52.32,1,3,1,11,1,1,0.125,0,0,3,42.194,3.0327,270.549,64.776
+B_estry,aromatic_ester,ethyl cinnamate,637758,CCOC(=O)/C=C/c1ccccc1,176.215,2.263,26.3,0,2,3,13,1,1,0.182,0,0,2,52.109,2.5382,288.218,77.842
+B_estry,aromatic_ester,benzyl benzoate,2345,O=C(OCc1ccccc1)c1ccccc1,212.248,3.044,26.3,0,2,3,16,2,2,0.071,0,0,2,62.004,1.946,448.676,94.493
+B_estry,other_small,ethyl propionate,7749,CCOC(=O)CC,102.133,0.96,26.3,0,2,2,7,0,0,0.8,0,0,2,26.924,3.0026,59.1,43.474
+B_estry,other_small,ethyl formate,8025,CCOC=O,74.079,0.179,26.3,0,2,2,5,0,0,0.667,0,0,2,17.69,2.4017,26.074,30.744
+C_aldehydy,aliphatic_sat,hexanal,6184,CCCCCC=O,100.161,1.766,17.07,0,1,4,7,0,0,0.833,0,0,1,30.206,2.5588,41.445,44.725
+C_aldehydy,aliphatic_sat,heptanal,8130,CCCCCCC=O,114.188,2.156,17.07,0,1,5,8,0,0,0.857,0,0,1,34.823,2.6163,50.349,51.09
+C_aldehydy,aliphatic_sat,octanal,454,CCCCCCCC=O,128.215,2.546,17.07,0,1,6,9,0,0,0.875,0,0,1,39.44,2.6639,59.588,57.455
+C_aldehydy,aliphatic_sat,nonanal,31289,CCCCCCCCC=O,142.242,2.936,17.07,0,1,7,10,0,0,0.889,0,0,1,44.057,2.7038,69.129,63.82
+C_aldehydy,aliphatic_sat,decanal,8175,CCCCCCCCCC=O,156.269,3.326,17.07,0,1,8,11,0,0,0.9,0,0,1,48.674,2.7377,78.942,70.185
+C_aldehydy,aliphatic_sat,undecanal,8186,CCCCCCCCCCC=O,170.296,3.716,17.07,0,1,9,12,0,0,0.909,0,0,1,53.291,2.7668,89.005,76.55
+C_aldehydy,aliphatic_sat,dodecanal,8194,CCCCCCCCCCCC=O,184.323,4.106,17.07,0,1,10,13,0,0,0.917,0,0,1,57.908,2.792,99.298,82.915
+C_aldehydy,aliphatic_sat,tridecanal,25311,CCCCCCCCCCCCC=O,198.35,4.496,17.07,0,1,11,14,0,0,0.923,0,0,1,62.525,2.8141,109.803,89.28
+C_aldehydy,aliphatic_sat,tetradecanal,31291,CCCCCCCCCCCCCC=O,212.377,4.886,17.07,0,1,12,15,0,0,0.929,0,0,1,67.142,2.8336,120.507,95.645
+C_aldehydy,aliphatic_unsat,trans-2-hexenal,5281168,CCC/C=C/C=O,98.145,1.542,17.07,0,1,3,7,0,0,0.5,0,0,1,30.112,2.9212,64.58,44.036
+C_aldehydy,aliphatic_unsat,cis-3-hexenal,643941,CC/C=C\CC=O,98.145,1.542,17.07,0,1,3,7,0,0,0.5,0,0,1,30.112,2.9195,64.58,44.036
+C_aldehydy,aliphatic_unsat,10-undecenal,8187,C=CCCCCCCCCC=O,168.28,3.492,17.07,0,1,9,12,0,0,0.727,0,0,1,53.197,2.8073,93.572,75.861
+C_aldehydy,aliphatic_unsat,trans-2-nonenal,5283335,CCCCCC/C=C/C=O,140.226,2.712,17.07,0,1,6,10,0,0,0.667,0,0,1,43.963,2.8962,94.901,63.131
+C_aldehydy,aromatic,benzaldehyde,240,O=Cc1ccccc1,106.124,1.499,17.07,0,1,1,8,1,1,0.0,0,0,1,31.829,2.991,167.002,47.958
+C_aldehydy,aromatic,cinnamaldehyde,637511,O=C/C=C/c1ccccc1,132.162,1.899,17.07,0,1,2,10,1,1,0.0,0,0,1,41.54,2.7588,223.743,59.998
+C_aldehydy,aromatic,anisaldehyde,31244,COc1ccc(C=O)cc1,136.15,1.508,26.3,0,2,2,10,1,1,0.125,0,0,2,38.382,2.8954,213.204,59.436
+C_aldehydy,aromatic,vanillin,1183,COc1cc(C=O)ccc1O,152.149,1.213,46.53,1,3,2,11,1,1,0.125,0,0,3,40.046,3.1162,268.04,64.231
+C_aldehydy,aromatic,ethylvanillin,8467,CCOc1cc(C=O)ccc1O,166.176,1.603,46.53,1,3,3,12,1,1,0.222,0,0,3,44.663,2.9881,281.102,70.596
+C_aldehydy,aromatic,piperonal,8438,O=Cc1ccc2c(c1)OCO2,150.133,1.228,35.53,0,3,1,11,2,1,0.125,1,0,3,37.953,2.4834,293.389,63.544
+C_aldehydy,aromatic,cuminaldehyde,326,CC(C)c1ccc(C=O)cc1,148.205,2.623,17.07,0,1,2,11,1,1,0.3,0,0,1,45.919,2.9098,233.555,67.053
+C_aldehydy,aromatic,salicylaldehyde,6998,O=Cc1ccccc1O,122.123,1.205,37.3,1,2,1,9,1,1,0.0,0,0,2,33.494,3.148,217.911,52.752
+C_aldehydy,aromatic,p-tolualdehyde,7725,Cc1ccc(C=O)cc1,120.151,1.808,17.07,0,1,1,9,1,1,0.125,0,0,1,36.567,3.0098,198.313,54.323
+C_aldehydy,aromatic,phenylacetaldehyde,998,O=CCc1ccccc1,120.151,1.428,17.07,0,1,2,9,1,1,0.125,0,0,1,36.21,2.7195,179.019,54.323
+C_aldehydy,aromatic,helional,64805,CC(C=O)Cc1ccc2c(c1)OCO2,192.214,1.793,35.53,0,3,3,14,2,1,0.364,1,0,3,51.497,2.1606,346.386,82.639
+C_aldehydy,terpene_ald,citral,638011,CC(C)=CCC/C(C)=C/C=O,152.237,2.878,17.07,0,1,4,11,0,0,0.5,0,0,1,48.486,3.6258,171.312,68.806
+C_aldehydy,terpene_ald,citronellal,7794,CC(C)=CCCC(C)CC=O,154.253,2.958,17.07,0,1,5,11,0,0,0.7,0,0,1,48.51,3.3764,131.808,69.496
+C_aldehydy,terpene_ald,perillaldehyde,16441,C=C(C)C1CC=C(C=O)CC1,150.221,2.488,17.07,0,1,2,11,1,0,0.5,1,0,1,46.302,2.5382,200.918,67.8
+C_aldehydy,terpene_ald,safranal,61041,CC1=C(C=O)C(C)(C)CC=C1,150.221,2.488,17.07,0,1,1,11,1,0,0.5,1,0,1,46.302,3.0952,231.257,67.8
+C_aldehydy,terpene_ald,myrtenal,61130,CC1(C)C2CC=C(C=O)C1C2,150.221,2.178,17.07,0,1,1,11,3,0,0.7,3,1,1,44.142,2.2961,225.027,67.484
+C_aldehydy,terpene_ald,hydroxycitronellal,7888,CC(CC=O)CCCC(C)(C)O,172.268,2.153,37.3,1,2,6,12,0,0,0.9,0,0,2,49.994,3.3647,124.29,74.979

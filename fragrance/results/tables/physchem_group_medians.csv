@@ -1,0 +1,4 @@
+group,MolWt,ExactMolWt,MolLogP,TPSA,HBD,HBA,RotatableBonds,RingCount,AromaticRings,AliphaticRings,HeavyAtomCount,FractionCSP3,NumHeteroatoms,NumValenceElectrons,NHOHCount,NOCount
+Floral,154.253,154.136,1.792,26.3,0.0,2.0,2.5,1.0,1.0,0.0,11.0,0.222,2.0,63.0,0.0,2.0
+Fruity,130.187,130.099,1.74,26.3,0.0,2.0,3.5,0.0,0.0,0.0,9.0,0.833,2.0,54.0,0.0,2.0
+Spicy,153.201,153.092,2.413,20.23,0.0,1.5,2.0,1.0,1.0,0.0,11.0,0.286,1.5,60.0,0.0,1.0
