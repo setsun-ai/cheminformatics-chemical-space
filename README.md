@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/setsun-ai/cheminformatics-chemical-space/actions/workflows/ci.yml/badge.svg)](https://github.com/setsun-ai/cheminformatics-chemical-space/actions/workflows/ci.yml)
 
-**MSc coursework.** Exploratory cheminformatics on two 90-molecule datasets: fragrance molecules (floral, fruity, spicy) and over-the-counter drugs from PubChem. The same molecules are encoded three ways (RDKit physicochemical descriptors, MACCS keys, Morgan fingerprints) and compared with PCA, t-SNE, UMAP and hierarchical clustering.
+**MSc coursework.** Exploratory cheminformatics on 90 fragrance molecules (floral, fruity, spicy), the submitted course project, with a second 90-molecule dataset of over-the-counter drugs from PubChem as a prepared alternative. The same molecules are encoded three ways (RDKit physicochemical descriptors, MACCS keys, Morgan fingerprints) and compared with PCA, t-SNE, UMAP and hierarchical clustering.
 
 ![Representative molecules](fragrance/results/structures_2d/representative_molecules_grid.png)
 
@@ -35,7 +35,7 @@ The test case is whether an everyday, non-structural label (odour class, therape
 
 ## Method
 
-| Step | Fragrance dataset | Home-pharmacy dataset |
+| Step | Fragrance dataset (submitted project) | Home-pharmacy dataset (prepared alternative) |
 |---|---|---|
 | Data | 90 molecules, 3 odour classes × 30, SMILES validated with RDKit, no duplicate structures | 90 APIs, 3 therapeutic groups × 30 (pain, respiratory, gastro), SMILES/CIDs fetched from PubChem |
 | Cleaning | RDKit sanitisation, canonical SMILES | salt stripping, largest fragment, uncharging |
@@ -93,7 +93,7 @@ All inputs are public:
 
   2D/3D structure visualisation and ChemBERTa embeddings were optional extensions.
 - **My decisions:**
-  - the two datasets and their class definitions,
+  - the fragrance dataset and its class definitions (submitted), plus the home-pharmacy dataset prepared as an alternative,
   - the specific representations and distance metrics,
   - the quantitative separability metrics (ARI/NMI, silhouette),
   - automating the whole exploration in one reproducible script,
@@ -114,8 +114,8 @@ Code: MIT (see [LICENSE](LICENSE)). PubChem-derived structures and data follow P
 
 Projekt z przedmiotu *Chemoinformatyka* (kierunek InfoBioChem, studia II stopnia, Politechnika Gdańska, 2026). Sprawdzam, jak wybór reprezentacji cząsteczki zmienia to, co uznajemy za „podobne”. Ma to znaczenie w virtual screeningu i w poszukiwaniu analogów.
 
-1. **Zapachy:** 90 cząsteczek w 3 klasach zapachowych. Porównanie deskryptorów fizykochemicznych, MACCS i Morgan w PCA, t-SNE, UMAP i HCA. Klasa zapachowa jest tylko słabo zakodowana w strukturze; najlepiej rozdzielają ją deskryptory fizykochemiczne (ARI 0,158).
-2. **Domowa apteczka:** 90 substancji czynnych z PubChem, standaryzacja w RDKit, deskryptory i fingerprinty do analizy w Orange. Dane odtwarzają się offline z zapisanego cache.
+1. **Zapachy (projekt oddany na zaliczenie):** 90 cząsteczek w 3 klasach zapachowych. Porównanie deskryptorów fizykochemicznych, MACCS i Morgan w PCA, t-SNE, UMAP i HCA. Klasa zapachowa jest tylko słabo zakodowana w strukturze; najlepiej rozdzielają ją deskryptory fizykochemiczne (ARI 0,158).
+2. **Domowa apteczka (przygotowana alternatywa):** 90 substancji czynnych z PubChem, standaryzacja w RDKit, deskryptory i fingerprinty do analizy w Orange. Dane odtwarzają się offline z zapisanego cache.
 3. **Raport PCA/HCA** dla zbioru Wine, wykonany w Orange.
 
 **Uruchomienie:** `python fragrance/chemoinf_fragrance_analysis.py`, a testy przez `pytest`. Współrzędne t-SNE/UMAP mogą się różnić między wersjami bibliotek; wszystkie liczby (PCA, HCA, ARI) odtwarzają się dokładnie.
